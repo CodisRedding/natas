@@ -1,0 +1,24 @@
+{
+  "name": "natas",
+  "version": "0.1.0",
+  "description": "A pretty little service bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fourq/natas.git"
+  },
+  "keywords": [
+    "service",
+    "bus",
+    "events"
+  ],
+  "author": "Rocky Assad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fourq/natas/issues"
+  },
+  "homepage": "https://github.com/fourq/natas#readme"
+}
